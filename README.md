@@ -17,7 +17,6 @@ xe9680_rag는 Dell Generative AI 예제 레포지토리에서 제공하는 기�
 ## 감사의 말
 Dell의 원본 RAG 챗봇 예제에 감사드립니다.
 
-
 인터페이스를 제공해준 Gradio에 감사드립니다.
 
 [참고한 Dell Generative AI 예제](https://github.com/dell-examples/generative-ai/blob/main/RAG-chatbot-multiformat/rag-chatbot-multiformat-source-tabs.ipynb)
